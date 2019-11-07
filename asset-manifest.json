@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tortilla.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Tortilla.github.io/static/js/main.6339d1a0.chunk.js",
+    "main.js.map": "/Tortilla.github.io/static/js/main.6339d1a0.chunk.js.map",
+    "runtime-main.js": "/Tortilla.github.io/static/js/runtime-main.f9a0f3bb.js",
+    "runtime-main.js.map": "/Tortilla.github.io/static/js/runtime-main.f9a0f3bb.js.map",
+    "static/js/2.168791a1.chunk.js": "/Tortilla.github.io/static/js/2.168791a1.chunk.js",
+    "static/js/2.168791a1.chunk.js.map": "/Tortilla.github.io/static/js/2.168791a1.chunk.js.map",
+    "index.html": "/Tortilla.github.io/index.html",
+    "precache-manifest.75e5c8f75457acb4260a6854a8cd94e1.js": "/Tortilla.github.io/precache-manifest.75e5c8f75457acb4260a6854a8cd94e1.js",
+    "service-worker.js": "/Tortilla.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Tortilla.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Tortilla.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9a0f3bb.js",
+    "static/js/2.168791a1.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.6339d1a0.chunk.js"
+  ]
+}
