@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Tortilla.github.io/src/App.js/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Tortilla.github.io/src/App.js/static/js/main.388fbf5b.chunk.js",
-    "main.js.map": "/Tortilla.github.io/src/App.js/static/js/main.388fbf5b.chunk.js.map",
-    "runtime-main.js": "/Tortilla.github.io/src/App.js/static/js/runtime-main.746e45f2.js",
-    "runtime-main.js.map": "/Tortilla.github.io/src/App.js/static/js/runtime-main.746e45f2.js.map",
-    "static/js/2.168791a1.chunk.js": "/Tortilla.github.io/src/App.js/static/js/2.168791a1.chunk.js",
-    "static/js/2.168791a1.chunk.js.map": "/Tortilla.github.io/src/App.js/static/js/2.168791a1.chunk.js.map",
-    "index.html": "/Tortilla.github.io/src/App.js/index.html",
-    "precache-manifest.d0fac2f21c189e5b8f5fa1f34dd7ff0f.js": "/Tortilla.github.io/src/App.js/precache-manifest.d0fac2f21c189e5b8f5fa1f34dd7ff0f.js",
-    "service-worker.js": "/Tortilla.github.io/src/App.js/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/Tortilla.github.io/src/App.js/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/Tortilla.github.io/src/App.js/static/media/logo.25bf045c.svg"
+    "main.css": "/jaydevpatel/static/css/main.b100e6da.chunk.css",
+    "main.js": "/jaydevpatel/static/js/main.5a929581.chunk.js",
+    "main.js.map": "/jaydevpatel/static/js/main.5a929581.chunk.js.map",
+    "runtime-main.js": "/jaydevpatel/static/js/runtime-main.098ab45d.js",
+    "runtime-main.js.map": "/jaydevpatel/static/js/runtime-main.098ab45d.js.map",
+    "static/js/2.e59dba4b.chunk.js": "/jaydevpatel/static/js/2.e59dba4b.chunk.js",
+    "static/js/2.e59dba4b.chunk.js.map": "/jaydevpatel/static/js/2.e59dba4b.chunk.js.map",
+    "index.html": "/jaydevpatel/index.html",
+    "precache-manifest.123c37810bf96a205562f423f4173c0e.js": "/jaydevpatel/precache-manifest.123c37810bf96a205562f423f4173c0e.js",
+    "service-worker.js": "/jaydevpatel/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/jaydevpatel/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/jaydevpatel/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.746e45f2.js",
-    "static/js/2.168791a1.chunk.js",
+    "static/js/runtime-main.098ab45d.js",
+    "static/js/2.e59dba4b.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.388fbf5b.chunk.js"
+    "static/js/main.5a929581.chunk.js"
   ]
 }
